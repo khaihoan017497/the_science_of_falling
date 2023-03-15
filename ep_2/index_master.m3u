@@ -34,5 +34,5 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=YES,AUTOSELECT=YES,NAME="Tiếng anh",LANGUAGE="EN",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_2/English.vtt.m3u?ver=4"
 
 #EXT-QQHLS-STREAM-KEYID:the_science_of_falling_ep_2
-#EXT-X-STREAM-INF:BANDWIDTH=1000000000,SUBTITLES="subs"
+#EXT-X-STREAM-INF:SUBTITLES="subs"
 https://europe.olemovienews.com/ts2/20230315/aimlrqxi/mp4/aimlrqxi.mp4/iframes-v1-a1.m3u8
