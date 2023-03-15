@@ -34,5 +34,7 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Tiếng Ả Rập",LANGUAGE="AR",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_4/Arabic.vtt.m3u?ver=4"
 
 #EXT-QQHLS-STREAM-KEYID:the_science_of_falling_ep_4
-#EXT-X-STREAM-INF:BANDWIDTH=1000000000,SUBTITLES="subs"
-https://ukzy.ukubf4.com/20230315/54CJPhsm/2000kb/hls/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1753661,RESOLUTION=1920x800,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2",VIDEO-RANGE=SDR
+https://europe.olemovienews.com/ts2/20230315/fcIuIvHG/mp4/fcIuIvHG.mp4/index-v1-a1.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=178631,RESOLUTION=1920x800,CODECS="avc1.640028",URI="https://europe.olemovienews.com/ts2/20230315/fcIuIvHG/mp4/fcIuIvHG.mp4/iframes-v1-a1.m3u8",VIDEO-RANGE=SDR
