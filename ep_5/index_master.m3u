@@ -34,5 +34,7 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Trung quốc(giản thể)",LANGUAGE="ZH-CN",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_5/Simplified Chinese.vtt.m3u?ver=4"
 
 #EXT-QQHLS-STREAM-KEYID:the_science_of_falling_ep_5
-#EXT-X-STREAM-INF:BANDWIDTH=1000000000,SUBTITLES="subs"
-https://ukzy.ukubf4.com/20230315/XHgWaVXN/2000kb/hls/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1827615,RESOLUTION=1920x800,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2",VIDEO-RANGE=SDR
+https://europe.olemovienews.com/ts2/20230315/pyiscCsu/mp4/pyiscCsu.mp4/index-v1-a1.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=168819,RESOLUTION=1920x800,CODECS="avc1.640028",URI="https://europe.olemovienews.com/ts2/20230315/pyiscCsu/mp4/pyiscCsu.mp4/iframes-v1-a1.m3u8",VIDEO-RANGE=SDR
