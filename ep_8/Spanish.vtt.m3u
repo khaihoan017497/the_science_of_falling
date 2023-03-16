@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2614
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:2614.00000,
+https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_8/Spanish.vtt
+#EXT-X-ENDLIST
