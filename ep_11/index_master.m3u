@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXT-QQHLS-STREAM-KEYID:Vietnamese
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Tiếng việt",LANGUAGE="VI",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Vietnamese.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Simplified Chinese
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Trung quốc(giản thể)",LANGUAGE="ZH-CN",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Simplified Chinese.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Arabic
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Tiếng Ả Rập",LANGUAGE="AR",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Arabic.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Spanish
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Tiếng Tây Ban Nha",LANGUAGE="ES",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Spanish.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Bahasa Indonesia
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Tiếng Indonesia",LANGUAGE="ID",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Bahasa Indonesia.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:English
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=YES,AUTOSELECT=YES,NAME="Tiếng anh",LANGUAGE="EN",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/English.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Traditional Chinese
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Tiếng trung(phồn thể)",LANGUAGE="ZH-TW",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Traditional Chinese.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Japanese
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="NONE",LANGUAGE="NONE",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Japanese.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Korean
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Tiếng Hàn",LANGUAGE="KO",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Korean.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Thai
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Thái lan",LANGUAGE="TH",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Thai.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:Bahasa Malaysia
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",DEFAULT=NO,AUTOSELECT=YES,NAME="Mã Lai",LANGUAGE="MS",URI="https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/Bahasa Malaysia.vtt.m3u?ver=4"
+
+#EXT-QQHLS-STREAM-KEYID:the_science_of_falling_ep_11
+#EXT-X-STREAM-INF:BANDWIDTH=1000000000,SUBTITLES="subs"
+https://raw.githubusercontent.com/khaihoan017497/the_science_of_falling/main/ep_11/index.m3u
